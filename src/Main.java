@@ -8,7 +8,5 @@ public class Main {
         a = b;
         b = temp;
         System.out.println(a + " "+ b);
-
-
     }
 }
